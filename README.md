@@ -4,4 +4,4 @@ I am currently working on creating a **[video game](https://github.com/matthewto
 
 Check out **[my website](https://matthewtole.com)** to see what else I've built!
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=mtole)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=matthewtole)](https://github.com/anuraghazra/github-readme-stats)
