@@ -1,6 +1,6 @@
 ## Work
 
-I am a software engineer and technical lead at **[Dropbox](https://dropbox.com)** where I work on the home, browse, and search experiences of [dropbox.com](https://dropbox.com/h).
+I am a senior software engineer and technical lead at **[Dropbox](https://dropbox.com)** where I work on the home, browse, and search experiences of [dropbox.com](https://dropbox.com/h).
 
 ## Personal
 
