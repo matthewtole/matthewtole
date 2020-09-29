@@ -2,13 +2,8 @@
 
 name: Dynamic Profile
 
-on:
-  workflow_run:
-    workflows: ["Update Profile"]
-    branches: [main]
-    types: 
-      - requested
-
+on: 
+  workflow_dispatch
 
 jobs:
   build:
