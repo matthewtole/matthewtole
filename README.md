@@ -5,7 +5,3 @@ I am currently working on creating a **[video game](https://github.com/matthewto
 Check out **[my website](https://matthewtole.com)** to see what else I've built!
 
 ![GitHub followers](https://img.shields.io/github/followers/matthewtole?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/matthewtole?style=for-the-badge)
-
----
-
-### 📘 Latest article &mdash; **[Code reviews are for humans](https://matthewtole.com/articles/code-reviews-are-for-humans/)**
