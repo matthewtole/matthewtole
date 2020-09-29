@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Run dynamic-profile
-        run: cd $GITHUB_WORKSPACE; npx github:matthewtole/dynamic-profile;
+        run: npx github:matthewtole/dynamic-profile;
 
       - name: Simple commit
         uses: zwaldowski/git-commit-action@v1
