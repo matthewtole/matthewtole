@@ -1,0 +1,24 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Dynamic Profile
+
+on:
+  workflow_run:
+    workflows: ["Update Profile"]
+    branches: [main]
+    types: 
+      - requested
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run dynamic-profile
+        run: npx github:matthewtole/dynamic-profile
+
+      - name: Simple commit
+        uses: zwaldowski/git-commit-action@v1
