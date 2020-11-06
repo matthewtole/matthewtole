@@ -9,3 +9,5 @@ Check out **[my website](https://matthewtole.com)** to see what else I've built!
 ---
 
 ### 📘 Latest article &mdash; **[Code reviews are for humans](https://matthewtole.com/articles/code-reviews-are-for-humans/)**
+
+![](https://i.imgur.com/fL36spG.png)
