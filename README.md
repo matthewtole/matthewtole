@@ -1,4 +1,4 @@
-![](https://i.imgur.com/nkvkhEA.png)
+![](https://i.imgur.com/qJK77Ze.png)
 
 I am a senior software engineer and technical lead at **[Dropbox](https://dropbox.com)** where I work on the home, browse, and search experiences of [dropbox.com](https://dropbox.com/h).
 
@@ -12,4 +12,4 @@ Check out **[my website](https://matthewtole.com)** to see what else I've built!
 
 ### 📘 Latest article &mdash; **[Code reviews are for humans](https://matthewtole.com/articles/code-reviews-are-for-humans/)**
 
-![](https://i.imgur.com/qJK77Ze.png)
+![](https://i.imgur.com/nkvkhEA.png)
