@@ -1,8 +1,8 @@
 ![](https://i.imgur.com/nkvkhEA.png)
 
-I am currently working at a startup that I can't talk about. For the past 3.5 years I was a senior software engineer and technical lead at **[Dropbox](https://dropbox.com)** where I worked on the home, browse, and search experiences of [dropbox.com](https://dropbox.com/h).
+Software Engineer at @common-room helping to build tools to help you build your community. Primarily focussed on front-end, but occasionally they let me write API code too. Want to join the team? [We're hiring!](https://boards.greenhouse.io/joincommonroom)
 
-I am currently working on creating a **[video game](https://github.com/matthewtole/dungeon-manager)** that's a cross between Theme Hospital and Dungeon Keeper.
+For the past 3.5 years I was a senior software engineer and technical lead at **[Dropbox](https://dropbox.com)** where I worked on the home, browse, and search experiences of [dropbox.com](https://dropbox.com/h).
 
 Check out **[my website](https://matthewtole.com)** to see what else I've built!
 
