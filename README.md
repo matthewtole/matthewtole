@@ -1,4 +1,4 @@
-![](https://i.imgur.com/nkvkhEA.png)
+![](https://i.imgur.com/sg7sNtw.png)
 
 Software Engineer at [Common Room](https://commonroom.io) helping to build tools to help you build your community. Primarily focussed on front-end, but occasionally they let me write API code too. Want to join the team? [We're hiring!](https://boards.greenhouse.io/joincommonroom)
 
@@ -11,5 +11,3 @@ Check out **[my website](https://matthewtole.com)** to see what else I've built!
 ---
 
 ### 📘 Latest article &mdash; **[Code reviews are for humans](https://matthewtole.com/articles/code-reviews-are-for-humans/)**
-
-![](https://i.imgur.com/qJK77Ze.png)
