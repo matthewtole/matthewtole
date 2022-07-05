@@ -1,8 +1,8 @@
 ![](https://i.imgur.com/sg7sNtw.png)
 
-Software Engineer at [Common Room](https://commonroom.io) helping to build tools to help you build your community. Primarily focussed on front-end, but occasionally they let me write API code too. Want to join the team? [We're hiring!](https://boards.greenhouse.io/joincommonroom)
+Software Engineer at [Common Room](https://commonroom.io) helping to build tools to help you build your community. Primarily focussed on front-end, but occasionally they let me write API code too.
 
-For the past 3.5 years I was a senior software engineer and technical lead at **[Dropbox](https://dropbox.com)** where I worked on the home, browse, and search experiences of [dropbox.com](https://dropbox.com/h).
+For the previous 3.5 years I was a senior software engineer and technical lead at **[Dropbox](https://dropbox.com)** where I worked on the home, browse, and search experiences of [dropbox.com](https://dropbox.com/h).
 
 Check out **[my website](https://matthewtole.com)** to see what else I've built!
 
