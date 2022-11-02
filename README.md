@@ -4,6 +4,8 @@ Software Engineer at [Common Room](https://commonroom.io) helping to build tools
 
 For the previous 3.5 years I was a senior software engineer and technical lead at **[Dropbox](https://dropbox.com)** where I worked on the home, browse, and search experiences of [dropbox.com](https://dropbox.com/h).
 
+Before that I worked at [Pebble](https://en.wikipedia.org/wiki/Pebble_(watch)) on the developer documentation website and the app store.
+
 Check out **[my website](https://matthewtole.com)** to see what else I've built!
 
 [![GitHub followers](https://img.shields.io/github/followers/matthewtole?style=for-the-badge)](https://github.com/matthewtole) [![Twitter Follow](https://img.shields.io/twitter/follow/matthewtole?style=for-the-badge)](https://twitter.com/matthewtole)
