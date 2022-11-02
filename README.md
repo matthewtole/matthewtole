@@ -6,7 +6,7 @@ For the previous 3.5 years I was a senior software engineer and technical lead a
 
 Check out **[my website](https://matthewtole.com)** to see what else I've built!
 
-![GitHub followers](https://img.shields.io/github/followers/matthewtole?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/matthewtole?style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/matthewtole?style=for-the-badge)](https://github.com/matthewtole) [![Twitter Follow](https://img.shields.io/twitter/follow/matthewtole?style=for-the-badge)](https://twitter.com/matthewtole)
 
 ---
 
