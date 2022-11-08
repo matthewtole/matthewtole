@@ -8,7 +8,7 @@ Before that I worked at [Pebble](https://en.wikipedia.org/wiki/Pebble_(watch)) o
 
 Check out **[my website](https://matthewtole.com)** to see what else I've built!
 
-[![GitHub followers](https://img.shields.io/github/followers/matthewtole?style=for-the-badge)](https://github.com/matthewtole) [![Twitter Follow](https://img.shields.io/twitter/follow/matthewtole?style=for-the-badge)](https://twitter.com/matthewtole)
+[![GitHub followers](https://img.shields.io/github/followers/matthewtole?style=for-the-badge)](https://github.com/matthewtole) [![Twitter Follow](https://img.shields.io/twitter/follow/matthewtole?style=for-the-badge)](https://twitter.com/matthewtole) <a rel="me" href="https://hachyderm.io/@matthewtole"><img src="https://img.shields.io/mastodon/follow/109309299109549831?domain=https%3A%2F%2Fhachyderm.io&label=Mastodon&style=for-the-badge" /></a>
 
 ---
 
